@@ -10,7 +10,7 @@ Welcome on deouf's profile !
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on __debz discord bots__
+🔭 I’m currently working on [__debz discord bots__](https://discord.gg/tc2kGutZvM)
   
 🌱 I’m currently learning : __ReactJS__
 
