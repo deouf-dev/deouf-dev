@@ -10,9 +10,12 @@ Welcome on deouf's profile !
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on a Telegram Bots SaaS
+🔭 I’m currently working on a **Telegram Bots SaaS**
   
 🌱 I’m currently learning : __ReactJS__
+
+ ⭐ I specialize in **__Discord and Telegram bots__**, SaaS platforms, backend development, and databases
+
 
   📫 How to reach me:  
   Mail me at "deouf.dev@gmail.com"
