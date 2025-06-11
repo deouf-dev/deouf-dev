@@ -10,7 +10,7 @@ Welcome on deouf's profile !
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on a **Telegram Bots SaaS**
+🔭 I’m currently working on my own **PortFolio**
   
 🌱 I’m currently learning : __ReactJS__
 
